@@ -241,7 +241,7 @@ a {
 
 /*Footer logo*/
 
-.logo-web {
+/*.logo-web {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 800;
@@ -261,7 +261,7 @@ a {
     color: var(--color-of-paragraphs-two);
     text-transform: uppercase;
     text-decoration: none;
-}
+}*/
 
 .footer-studio {
     font-family: 'Raleway';
